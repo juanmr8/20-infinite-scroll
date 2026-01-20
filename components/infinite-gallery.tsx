@@ -17,7 +17,7 @@ const IMAGES = [
 	{ src: "/pulp-9.png", alt: "Pulp Fiction 9" },
 ];
 
-const COPIES = 20;
+const COPIES = 1;
 const INITIAL_OFFSET = 0;
 const AUTO_SCROLL_SPEED = 0.5;
 const LERP_FACTOR = 0.1;
